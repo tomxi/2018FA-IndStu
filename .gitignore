@@ -1,3 +1,9 @@
 .ipynb_checkpoints/*
 __pycache__/*
 core.*
+*.h5
+model_200.json
+model_5epoch.json
+saved_models_full_set/
+saved_models_trained_w_200_examples/
+saved_models_w_1600_examples/
